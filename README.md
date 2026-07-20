@@ -4,15 +4,13 @@
 [![CAD: Fusion 360 / SolidWorks](https://img.shields.io/badge/CAD-Parametric-blue.svg)](#software--compatibility)
 [![Hardware: 6-DOF](https://img.shields.io/badge/Hardware-6--DOF-orange.svg)](#technical-specifications)
 
-A comprehensive mechanical design and 3D CAD repository for an open-source **[Insert 4/5/6]-Degree-of-Freedom (DoF) Robotic Arm**. This repository contains parametric source files, exported STEP/IGES assemblies, 3D-printable STL meshes, and a complete mechanical Bill of Materials (BOM).
-
-> **[Optional Notice]:** This design is currently in **[v1.0 - Prototyping / Active Development / Tested & Verified]**.
+A comprehensive mechanical design and 3D CAD repository for an open-source [6]-Degree-of-Freedom (DoF) Robotic Arm This repository contains parametric source files, exported STEP/IGES assemblies, 3D-printable STL meshes, and a complete mechanical Bill of Materials (BOM).
 
 ---
 
 ## 📌 Overview
 
-The **Robotic Arm CAD** project is engineered for **[pick one: educational research / desktop automation / ROS 2 simulation / light industrial pick-and-place]**. The architecture focuses on high mechanical rigidity, accessible fabrication (3D printing and off-the-shelf fasteners), and straightforward integration with standard servo and stepper motor drivers.
+The **Robotic Arm CAD** project is engineered for [pick one: educational research]. The architecture focuses on high mechanical rigidity, accessible fabrication (3D printing and off-the-shelf fasteners), and straightforward integration with standard servo and stepper motor drivers.
 
 ### ✨ Key Features
 * **Multi-Axis Articulation:** **[e.g., 6-DOF articulation with a rotating base, dual-arm shoulder, elbow, and 3-axis spherical wrist]**.
@@ -26,12 +24,12 @@ The **Robotic Arm CAD** project is engineered for **[pick one: educational resea
 
 | Parameter | Specification | Notes |
 | :--- | :--- | :--- |
-| **Degrees of Freedom** | **[e.g., 6 DoF + Gripper]** | Rotational joints throughout |
-| **Maximum Reach** | **[e.g., 450 mm]** | From base center to wrist flange |
-| **Max Payload** | **[e.g., 500 g]** | At full horizontal extension |
-| **Primary Actuators** | **[e.g., NEMA 17 Steppers & MG996R Servos]** | Closed-loop / Open-loop |
-| **Structural Material** | **[e.g., PLA+ / PETG / Aluminum Extrusion]** | Recommended minimum 30% infill |
-| **Total Weight** | **[e.g., ~1.8 kg]** | Including motors and fasteners |
+| **Degrees of Freedom** | **[6 DoF + Gripper]** | Rotational joints throughout |
+| **Maximum Reach** | **[450 mm]** | From base center to wrist flange |
+| **Max Payload** | **[500 g]** | At full horizontal extension |
+| **Primary Actuators** | **[NEMA 17 Steppers & MG996R Servos]** | Closed-loop / Open-loop |
+| **Structural Material** | **[PLA+ / PETG / Aluminum Extrusion]** | Recommended minimum 30% infill |
+| **Total Weight** | **[1.8 kg]** | Including motors and fasteners |
 
 ---
 
