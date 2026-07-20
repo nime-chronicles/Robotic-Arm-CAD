@@ -10,13 +10,13 @@ A comprehensive mechanical design and 3D CAD repository for an open-source [6]-D
 
 ## 📌 Overview
 
-The **Robotic Arm CAD** project is engineered for [pick one: educational research]. The architecture focuses on high mechanical rigidity, accessible fabrication (3D printing and off-the-shelf fasteners), and straightforward integration with standard servo and stepper motor drivers.
+The **Robotic Arm CAD** project is engineered for [educational research]. The architecture focuses on high mechanical rigidity, accessible fabrication (3D printing and off-the-shelf fasteners), and straightforward integration with standard servo and stepper motor drivers.
 
 ### ✨ Key Features
-* **Multi-Axis Articulation:** **[e.g., 6-DOF articulation with a rotating base, dual-arm shoulder, elbow, and 3-axis spherical wrist]**.
+* **Multi-Axis Articulation:** **[6-DOF articulation with a rotating base, dual-arm shoulder, elbow, and 3-axis spherical wrist]**.
 * **Optimized for 3D Printing:** Designed without requiring complex support structures where possible; flat orientation planes included for FDM printing.
-* **Standardized Hardware:** Relies on metric hardware (**[e.g., M3/M4 fasteners and 608ZZ bearings]**) for ease of sourcing.
-* **Modularity:** Interchangeable end-effector mount (**[e.g., parallel gripper, vacuum cup, or pen holder]**).
+* **Standardized Hardware:** Relies on metric hardware (**[M3/M4 fasteners and 608ZZ bearings]**) for ease of sourcing.
+* **Modularity:** Interchangeable end-effector mount (**[parallel gripper, vacuum cup, or pen holder]**).
 
 ---
 
